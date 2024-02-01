@@ -70,8 +70,10 @@ docs/learning
 docs/main
 docs/steps/
 docs/db
-docs/db/
 docs/core/
+applications/
+benchmark/
+tools/
 
 # coding assistants
 .aider*
